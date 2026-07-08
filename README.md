@@ -16,3 +16,5 @@
 **embeddings/gaelic_svd_dictionary.npy** — SVD-эмбеддинги слов
 
 **embeddings/gaelic_fasttext_dictionary.npy** — fastText-эмбеддинги слов
+
+**gaelic_content_clean.txt** - очищенный гэльский текстовый корпус
